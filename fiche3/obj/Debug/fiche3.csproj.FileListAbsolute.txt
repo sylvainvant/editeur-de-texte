@@ -1,0 +1,8 @@
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\fiche3\fiche3\bin\Debug\fiche3.exe.config
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\fiche3\fiche3\bin\Debug\fiche3.exe
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\fiche3\fiche3\bin\Debug\fiche3.pdb
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\fiche3\fiche3\obj\Debug\fiche3.Fm_principal.resources
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\fiche3\fiche3\obj\Debug\fiche3.Properties.Resources.resources
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\fiche3\fiche3\obj\Debug\fiche3.csproj.GenerateResource.Cache
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\fiche3\fiche3\obj\Debug\fiche3.exe
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\fiche3\fiche3\obj\Debug\fiche3.pdb
